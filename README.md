@@ -71,8 +71,14 @@ This project revolutionizes the candidate onboarding process by eliminating inef
 ---
 ## Screenshots of Output 
    ![1](https://github.com/user-attachments/assets/1dd4b79c-07bd-4525-958c-6e0623b292b1)
+   
+---
    ![2](https://github.com/user-attachments/assets/9c617e12-43eb-4213-a6bd-8467bfbf4491)
+   
+---
    ![3](https://github.com/user-attachments/assets/848b3184-eff8-41d9-bfd3-57badd2b7ba4)
+   
+---
    ![4](https://github.com/user-attachments/assets/87ec9e85-1b1d-487e-973e-e6091ce98150)
 
 ### Author
